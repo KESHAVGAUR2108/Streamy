@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Stream1",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Stream2",
+      "description": "This is second stream.",
+      "id": 2
+    },
+    {
+      "title": "Created StreamForm Component",
+      "description": "This is for reuse! (Updated)",
+      "id": 5
+    },
+    {
+      "title": "Created on Monday",
+      "description": "This stream is created on monday. (Updated)",
+      "userId": "114177690101098861114",
+      "id": 6
+    },
+    {
+      "title": "Auto complete",
+      "description": "Just disabled auto complete",
+      "userId": "114177690101098861114",
+      "id": 8
+    }
+  ]
+}
